@@ -1,0 +1,77 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.resume-name {
+  font-family: 'Lato', sans-serif;
+  font-size: 60px;
+}
+
+.item {
+  font-family: 'Poppins', sans-serif;
+  font-size: 14px;
+  padding: 0%;
+}
+
+.dato_item {
+  font-family: 'Poppins', sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+  padding-bottom: 1rem;
+}
+
+.col_izq .tit_seccion::after {
+  content: '';
+  display: block;
+  width: 120%;
+  height: 2px;
+  background-color: #ffffff;
+  margin-top: 10px;
+}
+
+.col_der .tit_seccion::after {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 2px;
+  background-color: #36136c;
+  margin-top: 10px;
+}
+
+.miAcordeon {
+  border-style: none;
+}
+
+.miAcordeon .card {
+  border-style: none;
+}
+
+.miAcordeon .card .card-header {
+  border-style: none;
+}
+
+.miAcordeon .card :hover {
+  cursor: pointer;
+}
+
+.miAcordeon .collapse {
+  border-bottom-style: solid;
+  border-bottom-color: #eee;
+}
+
+.miAcordeon .card-body {
+  padding-left: 3rem;
+}
+
+.card-body {
+  margin-top: -10%;
+  background-color: white;
+}
+
+.nombre_empresa {
+  padding-bottom: 5rem;
+}
+
+/*# sourceMappingURL=main.css.map */

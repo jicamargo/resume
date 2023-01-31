@@ -1,0 +1,1 @@
+{"version":3,"names":[],"mappings":"","sources":["main_bs.scss"],"sourcesContent":["$primary: #806a41;\r\n$secondary: #34af42;\r\n$dark: #1a1a1a;\r\n$border-color: #eee;\r\n\r\n// Bootstrap\r\n//@import \"../bootstrap/scss/bootstrap.scss\";\r\n \r\n\r\n// ----------------------------------------"],"file":"main_bs.css"}
